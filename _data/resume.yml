@@ -1,0 +1,120 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Thanh Do"
+  label: "PhD Candidate"
+  picture: "/assets/img/profile.png"
+  email: "contact@thanhpdo.com"
+  website: "https://thanhpdo.com"
+  summary: >
+    Thanh Do is from Vietnam. She is a Ph.D. candidate in the Learning, Design and Technology program at Oklahoma State University
+    Her dissertation focuses on the use of technology to facilitate interaction and interactivity in online courses. Her research interests focus on online education, online interaction, technology integration, and emerging technology.
+  location:
+    address: "121 Nancy Randolph Davis"
+    postalCode: "OK 74078"
+    city: "Stillwater"
+    countryCode: "US"
+    region: "Oklahoma"
+  profiles:
+    - network: "Twitter"
+      username: "dtpthanh"
+      url: ""
+    - network: "LinkedIn"
+      username: "thanhpdo"
+      url: ""
+
+work:
+  - company: "College of Education and Human Sciences, OSU"
+    position: "Instructional Designer, GRA"
+    website: "https://education.okstate.edu/"
+    startDate: "2018-12-1"
+    endDate: ""
+    highlights:
+      - "Create tips documents to provide instant guidance for online instructors"
+      - "Review syllabus and materials for online courses"
+      - "Use research-based, best practices to ensure student engagement and success in online learning"
+      - "Assist online instructors in enhancing the delivery of their courses"
+      - "Manage a self-paced course containing resources for instructors who develop, implement and/or teach online courses"
+      - "Organized mini-workshops for instructors"      
+  - company: "School of Foreign Languages, Thai Nguyen University"
+    position: "Lecturer"
+    startDate: "2008-08-1"
+    endDate: "2014-12-1"
+    highlights:
+      - "Taught EFL courses (Grammar, Cross-cultural Communication, teaching English to Primary Students) and compiled English materials"
+      - "Consulted students to enroll in the courses"
+      - "Applied new English teaching methodologies to the students to support them learn English effectively and actively"
+      - "Created course syllabi for EFL learners: Developing Supplementary Teaching Materials, Curriculum Development, English Oral Intermediate Proficiency, and English Oral Upper-intermediate Proficiency"
+      - "Designed course structure and requirements; lectured and administered all grades"
+      - "Taught the course 'English foundation' (ENG141) for non-English major students"
+      - "Taught a reading demo lesson for elementary students at Nguyen Viet Xuan Elementary School and Trung Vuong Elementary School in Thai Nguyen"
+  - company: "Vietnam's National Foreign Languages 2020 Project"
+    position: "Intructor"
+    startDate: "2011-1-1"
+    endDate: "2014-11-1"
+    highlights:
+      - "Taught the course Teacher training modules on methods and techniques of English Language Teaching – Ha Giang Province, 2013"
+      - "Taught the courses English Language Enrichment Course Reading - level A2, English Language Enrichment Course Reading - level B1, English Language Enrichment Course Reading - level B2"
+      - "Created syllabi for these above courses. Designed course structure and requirements"
+      - "Designed and conducted a 45-minute demo English lesson at primary schools in Thai Nguyen"
+      - "Monitored, controlled and supported students learn English through DynEd's ESL/ELT/ELL technology-assisted courses"
+  - company: "Edulink (English Center), Thai Nguyen City"
+    position: "Teacher"
+    startDate: "2008-4-1"
+    endDate: "2010-10-31"
+    highlights:
+      - "Taught English classes (Grammar, especially English for Kids) and compiled English materials"
+      - "Organized English Communication club"   
+
+volunteer:
+  - organization: "Sheerar Museum of Stillwater History"
+    position: "Instructor"
+    website: "https://www.sheerarmuseum.org/"
+    startDate: "2015-05-01"
+    endDate: "2015-05-01"
+    summary: "Guided 3rd grade Stillwater students play games and toys in the Auditorium: Doll making station – to explore how Oklahoma began"
+  - organization: "First International Tea Festival, Thai Nguyen City"
+    position: "Interpreter"
+    startDate: "2011-11-12"
+    endDate: "2011-11-15"
+    summary: "Worked as a tour guide of a foreign people group who attended the Festival. Interpreted in International Education Fair"
+
+education:
+  - institution: "Oklahoma State University"
+    area: "Learning, Design and Technology"
+    studyType: "Doctorate of Philosophy in Education"
+    startDate: "2015-1-1"
+    endDate: ""
+  - institution: "Vietnam National University, University of Languages and International Studies, Ha Noi"
+    area: "English"
+    studyType: "Master"
+    startDate: "2009-1-1"
+    endDate: "2011-12-31"
+  - institution: "Thai Nguyen University, College of Education, Viet Nam"
+    area: "Language Education in English"
+    studyType: "Bachelor"
+    startDate: "2004-8-1"
+    endDate: "2008-5-31"
+
+awards:
+  - title: "Vietnam International Education Development (VIED) – Project 911 (2015 - 2018)"
+    date: "2015-1-1"
+  - title: "EFL Teacher Applying Information Technology in a Nationwide competition (Vietnam NFL Project 2020) – Rank: Third"
+    date: "2014-1-1"
+  - title: "The Helen M. Jones Endowed Scholarship – College of Education, Health and Aviation, OSU - $1,500.00"
+    date: "2018-1-1"
+  - title: "OSU’s National Science Foundation’s Innovation Corps (I-Corps™) (with a team) - $3000.00"
+    date: "2019-1-1"
+  - title: "The Kim R. Watson Endowed Scholarship in Education– College of Education and Human Sciences, OSU - $1,500.00"
+    date: "2020-1-1"
+  - title: "2020 AECT Scholarship"
+    date: "2020-1-1"
+  - title: "Graduate Research Associate (2018 - 2021)"
+    date: "2018-1-1"
+
+languages:
+  - language: "English"
+    fluency: "full-professional-proficiency"
+  - language: "Vietnamese"
+    fluency: "native speaker"
