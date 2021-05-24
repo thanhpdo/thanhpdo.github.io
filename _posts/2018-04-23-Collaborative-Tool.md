@@ -9,7 +9,7 @@ about: false
 ---
 ## Collaborative Tool
 
-One of the collaborative tools I like is Nearpod
+**One of the collaborative tools I like is Nearpod**
 
 How it will be used by me and the students: I will prepare some discussion slides that students can post their opinions. Moreover, students will have opportunities to review what they have learn by using their own words. 
 
