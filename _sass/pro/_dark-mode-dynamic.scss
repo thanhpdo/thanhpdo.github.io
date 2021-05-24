@@ -1,0 +1,14 @@
+
+
+@import "pro/dark-mode";
+
+@media screen and (prefers-color-scheme: dark) {
+  body {
+    @include dark-mode();
+  }
+
+  .tippy-content {
+    -webkit-font-smoothing: initial;
+    -moz-osx-font-smoothing: initial;
+  }
+}

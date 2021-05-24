@@ -1,0 +1,15 @@
+.content {
+  
+  
+  @media print {
+    padding: 1rem;
+  }
+  
+}
+
+.large-only {
+  display: none;
+  @media screen and (min-width: $break-point-dynamic) {
+    display: block;
+  }
+}
