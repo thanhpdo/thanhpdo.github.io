@@ -1,0 +1,37 @@
+
+.sidebar-social {
+  &::after {
+    @extend .clearfix
+  }
+
+  > ul {
+    display: inline-block;
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+
+    > li {
+      float: left;
+
+      > a {
+        display: inline-block;
+        text-align: center;
+        font-size: 1.4rem;
+        width: 3rem;
+        height: 4rem;
+        padding: .5rem 0;
+        line-height: 4rem - 2 * .5rem;
+        text-decoration: none;
+        border-bottom-width: 2px;
+        border-bottom-style: solid;
+      }
+    }
+
+    li + li {
+      margin-top: 0;
+    }
+  }
+}
+
+
+

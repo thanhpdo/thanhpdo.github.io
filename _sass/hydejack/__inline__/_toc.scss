@@ -1,0 +1,31 @@
+#markdown-toc {
+  
+  @extend .note-sm;
+  margin: 2rem -1rem 2rem calc(-1rem + 1px);
+  padding-left: 2.5rem;
+  padding-bottom: .5rem;
+  
+//   transition: opacity 300ms ease, transform 300ms ease, border-color 1s ease; 
+  &:before { left: 1rem; }
+}
+
+body:not(.no-toc) #markdown-toc {
+  @media screen and (min-width: $break-point-dynamic) {
+    
+    position: absolute;
+    z-index: 4;
+    width: 20.5rem;
+    right: 0;
+    margin: auto;
+    overflow: auto;
+    
+    
+  }
+}
+
+
+body.no-break-layout:not(.no-toc) #markdown-toc {
+  @media screen and (min-width: $break-point-dynamic) {
+    width: calc(50% - #{$half-content});
+  }
+}

@@ -1,0 +1,38 @@
+hy-push-state a {
+//   color: var(--body-color); 
+  
+
+  
+  transition: color 250ms, text-decoration-color 250ms, border-color 250ms;
+  &:hover {
+    transition: color 50ms, text-decoration-color 50ms, border-color 50ms;
+  }
+  
+
+  
+}
+
+.content a:not(.btn):not(.no-hover) {
+  
+  
+  &:hover {
+    @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      text-decoration-color: var(--accent-color);
+    }
+    border-color: var(--accent-color);
+  }
+  
+}
+
+
+a.btn {
+  text-decoration: none;
+}
+
+@media print {
+  a:not(.no-print-link)::after {
+    content: " (" attr(href) ") ";
+    color: var(--gray);
+    font-size: 62%;
+  }
+}

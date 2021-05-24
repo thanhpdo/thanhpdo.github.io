@@ -1,0 +1,8 @@
+
+@import "pro/syntax-dark";
+
+@media screen and (prefers-color-scheme: dark) {
+  body {
+    @include darkmode-syntax();
+  }
+}

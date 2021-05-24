@@ -1,0 +1,24 @@
+
+
+* {
+//   box-sizing: border-box; 
+  // -webkit-tap-highlight-color: transparent; 
+}
+
+
+
+
+@media (display-mode: standalone) {
+  body {
+    overscroll-behavior-y: contain;
+  }
+}
+
+:focus {
+  outline-color: var(--accent-color)!important;
+}
+
+::selection {
+  background: var(--accent-color-faded);
+}
+
