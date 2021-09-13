@@ -11,10 +11,10 @@ basics:
     I am a Ph.D. candidate in the Learning, Design and Technology program at Oklahoma State University. My focus on the use of technology to facilitate interaction and interactivity in online courses. My research interests focus on online education, online interaction, technology integration, and emerging technology.
   location:
     address: "121 Nancy Randolph Davis"
-    postalCode: "OK 74078"
     city: "Stillwater"
+    region: "OK"
+    postalCode: "74078"
     countryCode: "US"
-    region: "Oklahoma"
   profiles:
     - network: "Twitter"
       username: "dtpthanh"
