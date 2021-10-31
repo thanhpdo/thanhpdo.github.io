@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Thanh Do
+N;CHARSET=UTF-8:Do;Thanh;;;
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:contact@thanhpdo.com
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:thanhtd@okstate.edu
+TEL;TYPE=CELL:4053349591
+ORG;CHARSET=UTF-8:Oklahoma State University
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/thanhpdo/
+REV:2021-10-31T05:43:22.826Z
+END:VCARD
