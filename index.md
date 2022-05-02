@@ -4,7 +4,7 @@ title: Welcome
 sitemap: false
 ---
 
-####<p align="center"> *Teaching is more than imparing knowledge, it is inspring change. Learning is more than absorbing facts, it is acquiring understanding.*  </p>
+<p align="center"> ####*Teaching is more than imparing knowledge, it is inspring change. Learning is more than absorbing facts, it is acquiring understanding.*  </p>
 <p align="center"> -William Arthur Ward-  </p>
 
 I am a new graduate with a PhD degree in Learning, Design and Technology, [College of Education and Human Sciences](https://education.okstate.edu/), [Oklahoma State University](https://go.okstate.edu/), class of May 2022.
