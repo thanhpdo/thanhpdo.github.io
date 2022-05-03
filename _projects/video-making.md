@@ -23,7 +23,7 @@ Students will be able to
 - Shoot, edit and publish their video
 
 **Requirements**
-- Instructor: masters the use of necessary ICT tools for making a video
+- Instructor: masters the use of necessary ICT tools (iMovie, Audacity, Google drive...) for making a video
 - Students: have taken the drama project (optional) and basic ICT course
 - Classroom: computers, projector, sound systems, internet connection
 
