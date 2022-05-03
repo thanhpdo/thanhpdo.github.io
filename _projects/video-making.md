@@ -29,7 +29,7 @@ Students will be able to
 - Shoot, edit and publish their video
 
 **Requirements**
-- Instructor: masters the use of necessary ICT tools (iMovie, Audacity, Google drive...) for making a video
+- Instructor: masters the use of necessary ICT tools to create a video
 - Students: have taken the drama project (optional) and basic ICT course
 - Classroom: computers, projector, sound systems, internet connection
 
@@ -38,7 +38,7 @@ Students will be able to
 - Explain the project requirement
 - Choose a context
 - Provide sample videos
-- Introduce necessary technology tools for making and publishing a video (See Technology Tools)
+- Introduce necessary technology tools for making and publishing a video
 - Provide evaluation rubric
 
 ​<img align="center" src="/assets/img/projects/video-making-rubric.jpg">
