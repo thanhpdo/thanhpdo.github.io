@@ -2,7 +2,7 @@
 layout: resume
 title: Resume
 description: >
-  Thanh Do is from Vietnam. She is a Ph.D. candidate in the Learning, Design and Technology program at Oklahoma State University Her dissertation focuses on the use of technology to facilitate interaction and interactivity in online courses. Her research interests focus on online education, online interaction, technology integration, and emerging technology.
+  Experienced Instructor and Instructional Designer with a history of working in higher education and a demonstrated passion for learning, designing and teaching. Skilled in researching and teaching, designing instructional materials, developing and evaluating course syllabi, applying ADDIE, implementing technology tools, and eLearning software.
 hide_description: true
 left_column:
   - work
