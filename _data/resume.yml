@@ -3,7 +3,7 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Thanh Do"
-  label: "PhD Candidate"
+  label: "PhD"
   picture: "/assets/img/profile.png"
   email: "contact@thanhpdo.com"
   website: "https://thanhpdo.com"
