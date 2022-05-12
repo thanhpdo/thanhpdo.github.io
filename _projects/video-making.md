@@ -1,8 +1,8 @@
 ---
 layout: project
-title: 'Video-making in an EFL classroom'
+title: 'Video-making in an ESL classroom'
 description: >
-  In this project, I asked EFl students to participate in a video project to express their knowledge of previous lessons. Students had opportunities to practice real situations, and adapt technologies to create fun and informative videos. Students chose a context to produce an 8-10 minute video in group of four or five students.
+  In this project, I asked ESl students to participate in a video project to express their knowledge of previous lessons. Students had opportunities to practice real situations, and adapt technologies to create fun and informative videos. Students chose a context to produce an 8-10 minute video in group of four or five students.
 date: 1 August 2014
 image: 
   path: /assets/img/projects/video-making-project.jpg
@@ -19,7 +19,7 @@ sitemap: false
 
 **My role** Instructor
 
-**Target Audience** EFL students at the School of Foreign Languages, Thai Nguyen University, Viet Nam
+**Target Audience** ESL students at the School of Foreign Languages, Thai Nguyen University, Viet Nam
 
 **Tools Used** iMovie, Audacity, Google Drive
 
