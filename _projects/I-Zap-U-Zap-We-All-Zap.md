@@ -5,7 +5,7 @@ description: >
    This two hour workshop presented at AECT 2019 introduced the participants to a platform for creating an Augmented Reality (AR) app. I and other workshop instructors identified the goal that helped participants gain confidence in integrating AR into their professional portfolios. Participants created their own materials such as resumes or instructional artifacts with the Zappar app.
 date: 1 August 2019
 image: 
-  path: /assets/img/projects/AR-app-1.png
+  path: /assets/img/projects/I-Zap1.png
 sitemap: false
 ---
 
