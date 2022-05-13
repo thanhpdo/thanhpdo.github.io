@@ -32,4 +32,4 @@ I used pages to provide information for main sessions, such as Online Course Dev
 I also organized main contents into categories in Modules
 ​<img align="center" src="/assets/img/projects/EHA-2.png">
 
-​<img align="center" src="/assets/img/projects/ARapp2.jpg">
+​<img align="center" src="/assets/img/projects/I-Zap-U-Zap-We-All-Zap_AECT 2019.png">
