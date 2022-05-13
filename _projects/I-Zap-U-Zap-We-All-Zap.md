@@ -19,12 +19,12 @@ Sample images from the workshop presentation
 
 **Workshop Instructors slide**
 
-​<img align="center" src="/assets/img/projects/AR-app-2.png">
+​<img align="center" src="/assets/img/projects/I-Zap2.png">
 
 **Content Organization slide**
 
-​<img align="center" src="/assets/img/projects/AR-app-3.png">
+​<img align="center" src="/assets/img/projects/I-Zap3.png">
 
 **Examples slide**
 
-​<img align="center" src="/assets/img/projects/AR-app-4.png">
+​<img align="center" src="/assets/img/projects/I-Zap4.png">
