@@ -16,17 +16,18 @@ sitemap: false
 
 **Tools Used** Canvas LMS
 
-The following pictures illustrated what this course site looks like.
+The following images illustrated what this course site looks like.
 
 I created the front page to introduce the course site. I listed the main content in this page.
 ​<img align="center" src="/assets/img/projects/EHA-1.png">
 
 I used pages to provide information for main sessions, such as Online Course Development Process and Online Instruction Best Practice.
+
 *Online Course Development Process*
 ​<img align="center" src="/assets/img/projects/EHA-3.png">
 
 *Online Instruction Best Practice*
-​<img align="center" src="/assets/img/projects/EHA-3.png">
+​<img align="center" src="/assets/img/projects/EHA-4.png">
 
 I also organized main contents into categories in Modules
 ​<img align="center" src="/assets/img/projects/EHA-2.png">
