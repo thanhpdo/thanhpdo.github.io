@@ -5,7 +5,7 @@ description: >
   This inforgraphic was created to illustrate the phrases of engagement as a part of the Online Teaching Tips project.
 date: 1 August 2020
 image: 
-  path: /assets/img/projects/Phases_of_Engagement.jpg
+  path: /assets/img/projects/Phases-of-Engagement.jpg
 sitemap: false
 ---
 
