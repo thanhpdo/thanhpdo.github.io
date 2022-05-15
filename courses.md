@@ -3,8 +3,8 @@ layout: plain
 sitemap: false
 ---
 # Coursework
-
-##  Common Core — 9 hours
+##
+## Common Core — 9 hours
 * SCFD 6983 Diversity and Equity Issues in Education - SP 2016
 * SCFD 6113 Theoretical Foundations of Inquiry - FA 2015
 * CIED 6503 Doctoral Seminar - SP 2015
