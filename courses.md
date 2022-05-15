@@ -1,19 +1,24 @@
 ---
-layout: plain
+layout: page
+title: Coursework
+description: >
+  My coursework
 sitemap: false
+hide_description: true
 ---
-# Coursework
-##
-## Common Core — 9 hours
+0. this unordered seed list will be replaced by toc as unordered list
+{:toc}
+
+## Common Core - 9 hours
 * SCFD 6983 Diversity and Equity Issues in Education - SP 2016
 * SCFD 6113 Theoretical Foundations of Inquiry - FA 2015
 * CIED 6503 Doctoral Seminar - SP 2015
-## Research Courses — 12 hours
+## Research Courses - 12 hours
 * CIED 6073 Advanced Pedagogical Research - SP 2016
 * REMS 6003 Analyses of Variance - SP 2017
 * SCFD 6123 Qualitative Research I - FA 2017
 * CIED 6253 Designing and Conducting Mixed Methods Research - SP 2018
-## Specialization (Ed Tech and related fields)— 27 hours 
+## Specialization (Ed Tech and related fields) - 27 hours 
 * EDTC 5203 Foundations of Educational Technologies - FA 2015
 * CIED 6183 – Adv Media Literacy - FA 2015
 * EDTC 5503 Facilitating Online Learning - SP 2018
