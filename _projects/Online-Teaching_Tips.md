@@ -24,7 +24,6 @@ The list of essential topics that relate to online teaching:
 
 I used Canva to design and organize content. Sample pages from the documents.
 
-*Online Course Development Process*
 ​<img align="center" src="/assets/img/projects/OTT3.png">
 
 This project was highly evaluated by faculty and administrators for some reasons. Firstly, this project aimed to respond to emergency remote teaching, which is “a temporary shift of instructional  delivery to an alternate delivery mode due to crisis circumstances” (Hodges et al., 2020). Secondly, the design of the materials was simple, easy to follow. Thirdly, the materials contained essential information to assist faculty who taught online for the first time. Fourthly, we delivered the materials promptly every 
