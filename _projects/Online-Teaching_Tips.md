@@ -2,14 +2,14 @@
 layout: project
 title: 'Online Teaching Tips - Using the ADDIE model'
 description: >
-   Following the suggestions on teaching remotely during the COVID-19 pandemic by Milman (2020), I planned and developed this project during Fall 2020 to provide instant guidance to all EHS College faculty. In this project, I also applied the ADDIE model to organize and develop the content.
+   Following the suggestions on teaching remotely during the COVID-19 pandemic by Milman (2020), I planned and developed this project during Fall 2020 to provide instant guidance to all EHS College faculty. In this project, I also applied the ADDIE model to organize and develop the content. With this project, I received the Nova Southeastern Univ. Award for Outstanding Practice by a Graduate Student from the Division of Design and Development, the Association for Educational Communications and Technology (AECT)
 date: 1 August 2020
 image: 
   path: /assets/img/projects/OTT1.png
 sitemap: false
 ---
 
-**My role** Workshop Instructor
+**My role** Instructional Designer
 
 **Target Audience** Faculty at the College of Education and Human Sciences
 
