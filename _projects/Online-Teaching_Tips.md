@@ -19,11 +19,11 @@ I followed suggestions on teaching remotely during the COVID-19 pandemic by Milm
 
 The list of essential topics that relate to online teaching:
 
-​<img align="center" src="/assets/img/OTT2.png">
+​<img align="center" src="/assets/img/OTT-topics.png">
 
 I used Canva to design and organize content. Sample pages from the documents.
 
-​<img align="center" src="/assets/img/OTT3.png">
+​<img align="center" src="/assets/img/OTT-samples.png">
 
 This project was highly evaluated by faculty and administrators for some reasons. Firstly, this project aimed to respond to emergency remote teaching, which is “a temporary shift of instructional delivery to an alternate delivery mode due to crisis circumstances” (Hodges et al., 2020). Secondly, the design of the materials was simple, easy to follow. Thirdly, the materials contained essential information to assist faculty who taught online for the first time. Fourthly, we delivered the materials promptly everyweek, so the faculty had enough time to read and implement the tips and strategies. And finally, I set up time slots for the faculty to schedule an instant appointment if they need my assistance in applying the tips.
 
