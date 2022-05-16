@@ -19,7 +19,7 @@ I followed suggestions on teaching remotely during the COVID-19 pandemic by Milm
 
 The list of essential topics that relate to online teaching:
 
-​<img align="center" src="/assets/img/OTT-topics.png">
+/assets/img/OTT-topics.png
 
 I used Canva to design and organize content. Sample pages from the documents.
 
