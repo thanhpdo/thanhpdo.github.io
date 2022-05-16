@@ -28,4 +28,9 @@ I used Canva to design and organize content. Sample pages from the documents.
 ​<img align="center" src="/assets/img/projects/OTT3.png">
 
 This project was highly evaluated by faculty and administrators for some reasons. Firstly, this project aimed to respond to emergency remote teaching, which is “a temporary shift of instructional  delivery to an alternate delivery mode due to crisis circumstances” (Hodges et al., 2020). Secondly, the design of the materials was simple, easy to follow. Thirdly, the materials contained essential information to assist faculty who taught online for the first time. Fourthly, we delivered the materials promptly every 
-week, so the faculty had enough time to read and implement the tips and strategies. And finally, I set up time slots for the faculty to schedule an instant appointment if they need my assistance in applying the tips
+week, so the faculty had enough time to read and implement the tips and strategies. And finally, I set up time slots for the faculty to schedule an instant appointment if they need my assistance in applying the tips.
+
+References:
+Hodges, C., Moore, S., Lockee, B., Trust, T., & Bond, A. (2020). The difference between emergency remote teaching and online 
+learning. Educause review, 27, 1-12.
+Milman, N. B. (2020). This is emergency remote teaching, not just online teaching. Education Week
