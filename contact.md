@@ -2,8 +2,7 @@
 layout: page
 title: Contact
 description: >
-  Hydejack PRO allows you to build your own forms, using [the same CSS classes as Bootstrap](https://getbootstrap.com/docs/4.0/components/forms/).
-  Below you can find examples to help you get started.
+  Contact form
 hide_description: true
 sitemap: false
 ---
