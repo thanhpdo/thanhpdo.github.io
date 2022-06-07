@@ -14,7 +14,7 @@
           {% assign fluency = lng.fluency | slugify %}
           {% unless page.no_language_icons %}
             {% case fluency %}
-              {% when 5 or "5-5" or "native-or-bilingual-proficiency" or "native-speaker" %}
+              {% when 5 or "5-5" or "native" or "native-speaker" or "bilingual-proficiency" %}
                 <span class="help" title="{{ lng.fluency }}">
                   <span class="sr-only">{{ lng.fluency }}</span>
                   <span class="icon-star-full"></span><span class="icon-star-full"></span><span class="icon-star-full"></span>
