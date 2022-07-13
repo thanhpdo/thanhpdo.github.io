@@ -37,3 +37,4 @@ Please download the Zappar app on your phone. You can scan the QR code or you ca
 
 Then open the Zappar app on your phone to scan my Zapcode to explore more information about me.
 
+​<img align="center" src="/assets/img/projects/Scan_Zapcode.png">
