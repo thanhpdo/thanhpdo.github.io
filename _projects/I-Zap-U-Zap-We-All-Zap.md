@@ -28,3 +28,9 @@ Sample images from the workshop presentation
 **Examples slide**
 
 ​<img align="center" src="/assets/img/projects/I-Zap4.png">
+
+**My AR Resume** 
+
+Please download the Zappar app on your phone. You can scan the QR code or you can also go to the app store and download it.
+
+
