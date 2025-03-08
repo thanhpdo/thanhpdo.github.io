@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Phrases of Engagement'
+title: 'Phases of Engagement'
 description: >
   This infographic was created to illustrate the phases of engagement as a part of the Online Teaching Tips project.
 date: 1 August 2020
