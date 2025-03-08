@@ -9,7 +9,7 @@ image:
 sitemap: false
 ---
 
-**My role** Workshop Instructor
+**My Role** Workshop Instructor
 
 **Target Audience** Conference participants, including both new and experienced educators as well as graduate students seeking to foster their teaching development. Participants with no previous knowledge or skills in developing an AR app could attend the workshop.
 
