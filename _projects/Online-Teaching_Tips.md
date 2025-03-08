@@ -9,7 +9,7 @@ image:
 sitemap: false
 ---
 
-**My role** Instructional Designer
+**My Role** Instructional Designer
 
 **Target Audience** Faculty at the College of Education and Human Sciences
 
