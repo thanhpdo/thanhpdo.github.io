@@ -56,7 +56,7 @@ menu:
 #  - title:             CHANGELOG
 #    url:               /CHANGELOG/
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2022 Thanh Do
+copyright:             © 2025 Thanh Do
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
 # Pagination configuration (used by the `blog` layout)
