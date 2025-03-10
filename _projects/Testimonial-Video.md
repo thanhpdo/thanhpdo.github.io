@@ -13,11 +13,7 @@ sitemap: false
 **Target Audience**  OSDH Employees
 
 **Tool Used** Camtasia and Canva  <br />
-<div>
-   <iframe id="Testimonial Video"
-      title=""
-      width="100%" 
-      padding-top: 56.25% 
-      src="https://www.youtube.com/embed/HZMCftKSn20"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-   </iframe>
+
+<div class="container">
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>
 </div>
