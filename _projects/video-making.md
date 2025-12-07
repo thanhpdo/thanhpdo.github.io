@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Video-making in an ESL classroom'
+title: 'Project-Based Learning'
 description: >
   In this project, I asked ESL students to participate in a video project to express their knowledge of previous lessons. Students had opportunities to practice real situations, and adapt technologies to create fun and informative videos. Students chose a context to produce an 8-10 minute video in a group of four or five students.
 date: 1 August 2014
