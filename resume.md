@@ -2,7 +2,7 @@
 layout: resume
 title: Resume
 description: >
-  Experienced Instructor and Instructional Designer with a history of working in higher education and a demonstrated passion for learning, designing and teaching. Skilled in researching and teaching, designing instructional materials, developing and evaluating course syllabi, applying ADDIE, implementing technology tools, and eLearning software.
+Experienced instructor, instructional designer, and organizational development leader with extensive experience in higher education and state government. Demonstrated expertise in learner experience design (LXD), developing and facilitating online, hybrid, and in-person courses, and integrating emerging technologies—including immersive environments, generative AI tools, and eLearning software—into meaningful learning experiences. Skilled in instructional design and evaluation (ADDIE), syllabus and curriculum development, learning analytics–informed improvement, and collaborative leadership in program and faculty development.
 hide_description: true
 left_column:
   - work
