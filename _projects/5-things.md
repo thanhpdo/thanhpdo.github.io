@@ -2,8 +2,8 @@
 layout: project
 title: '5 Things about OER'
 description: >
- Instructional Design, Infographic, OER, Visme, UDL
- date: '01-01-2018'
+  Instructional Design, Infographic, OER, Visme, UDL
+date: '01-01-2018'
 image: 
   path: /assets/img/projects/5-things-about-oer.jpg
 sitemap: false
