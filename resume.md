@@ -10,6 +10,7 @@ left_column:
   - education
 right_column:
   - languages
+  - skills
 no_language_icons: false
 no_skill_icons: false
 buttons:
