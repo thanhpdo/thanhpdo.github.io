@@ -8,14 +8,31 @@ basics:
   email: "contact@thanhpdo.com"
   website: "https://thanhpdo.com"
   summary: >
-    Experienced Instructor and Instructional Designer with a history of working in higher education and a demonstrated passion for learning, designing and teaching. Skilled in researching and teaching, designing instructional materials, developing and evaluating course syllabi, applying ADDIE, implementing technology tools, and eLearning software.
- 
+    Experienced instructor, instructional designer, and organizational development leader with extensive experience in higher education and state government. Demonstrated expertise in learner experience design (LXD), developing and facilitating online, hybrid, and in-person courses, and integrating emerging technologies—including immersive environments, generative AI tools, and eLearning software—into meaningful learning experiences. Skilled in instructional design and evaluation (ADDIE), syllabus and curriculum development, learning analytics–informed improvement, and collaborative leadership in program and faculty development.
   profiles:
     - network: "LinkedIn"
       username: "thanhpdo"
       url: ""
 
 work:
+- company: "Oklahoma State Department of Health"
+    position: "Organizational Development & Workforce Team Lead"
+    startDate: "2025-07-14"
+    endDate: "2021-12-11"
+    highlights:
+      - "Lead and coordinate team projects, monitor progress, and ensure deadlines and deliverables are met through balanced workload management."
+      - "Supervise, mentor, and onboard team members, providing daily guidance and fostering a supportive, collaborative work environment."
+      - "Conduct needs assessments (surveys, interviews, consultations) to determine training and organizational development priorities (Qualtrics, Microsoft Forms, MS Excel, Power BI)."
+      - "Evaluate training effectiveness using feedback, data, and assessment tools; update content and delivery methods based on findings (LMS analytics, survey tools)." 
+- company: "Oklahoma State Department of Health"
+    position: "Instructional Designer III"
+    startDate: "2022-08-22"
+    endDate: "2025-07-12"
+    highlights:
+      - "Created interactive tools and activities to support ongoing education programs."
+      - "Facilitated in-person, virtual, and hybrid training sessions."
+      - "Supported the Strategic Initiative of Bolster Leadership & Development Training for OSDH by promoting and delivering target training programs for employees, managers, and emerging leaders."
+      - "Developed and implemented training courses and programs (Articulate 360, Canva and Camtasia)" 
   - company: "College of Education and Human Sciences, OSU"
     position: "Instructional Designer, GRA"
     website: "https://education.okstate.edu/"
@@ -32,21 +49,17 @@ work:
     startDate: "2008-08-1"
     endDate: "2014-12-1"
     highlights:
-      - "Taught EFL courses (Grammar, Cross-cultural Communication, teaching English to Primary Students) and compiled English materials"
-      - "Consulted students to enroll in the courses"
+      - "Taught online courses (2022–2023): EOA243 - English Oral Advanced, ETG331 - English for Tour Guide, EDM331 - English for Tour Design and Management"
+      - "Delivered in-person courses (2008–2015): ECD 341 - English Curriculum Development, ECC231 - Cross-cultural Communication, ETP341 - Teaching English to Primary Students, EOI241 - English Oral Intermediate 1, EOI242 - English Oral Intermediate 2"
       - "Applied new English teaching methodologies to the students to support them learn English effectively and actively"
       - "Created course syllabi for EFL learners: Developing Supplementary Teaching Materials, Curriculum Development, English Oral Intermediate Proficiency, and English Oral Upper-intermediate Proficiency"
       - "Designed course structure and requirements; lectured and administered all grades"
-      - "Taught the course 'English foundation' (ENG141) for non-English major students"
-      - "Taught a reading demo lesson for elementary students at Nguyen Viet Xuan Elementary School and Trung Vuong Elementary School in Thai Nguyen"
   - company: "Vietnam's National Foreign Languages 2020 Project"
     position: "Intructor"
     startDate: "2011-1-1"
     endDate: "2014-11-1"
     highlights:
-      - "Taught the course Teacher training modules on methods and techniques of English Language Teaching - Ha Giang Province, 2013"
-      - "Taught the courses English Language Enrichment Course Reading - level A2, English Language Enrichment Course Reading - level B1, English Language Enrichment Course Reading - level B2"
-      - "Created syllabi for these above courses. Designed course structure and requirements"
+      - "Taught courses: Teacher training modules on methods and techniques of English Language Teaching, English Language Enrichment Course Reading - levels A2, B1 and B2."
       - "Designed and conducted a 45-minute demo English lesson at primary schools in Thai Nguyen"
       - "Monitored, controlled and supported students learn English through DynEd's ESL/ELT/ELL technology-assisted courses"
   - company: "Edulink (English Center), Thai Nguyen City"
@@ -57,10 +70,10 @@ work:
       - "Taught English classes (Grammar, especially English for Kids) and compiled English materials"
       - "Organized English Communication club"   
 
-volunteer:
+service:
   - organization: "Sheerar Museum of Stillwater History"
     position: "Instructor"
-    website: "https://www.sheerarmuseum.org/"
+    website:
     startDate: "2015-05-01"
     endDate: "2015-05-01"
     summary: "Guided 3rd grade Stillwater students play games and toys in the Auditorium: Doll making station – to explore how Oklahoma began"
