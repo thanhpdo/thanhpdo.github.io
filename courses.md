@@ -8,7 +8,6 @@ hide_description: true
 ---
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
-
 ## Common Core - 9 hours
 * SCFD 6983 Diversity and Equity Issues in Education
 * SCFD 6113 Theoretical Foundations of Inquiry
