@@ -2,7 +2,7 @@
 layout: project
 title: 'Quizlet Activities: Technology and Curriculum Terms'
 description: >
-    **Learning Design, Scaffolding, UDL**
+    **Learning Design, Scaffolding**
 date: '01-02-2018'
 image: 
   path: /assets/img/projects/using-flashcards.PNG
