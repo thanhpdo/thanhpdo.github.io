@@ -6,9 +6,8 @@ description: >
 hide_description: true
 left_column:
   - work
-  - volunteer
+  - service
   - education
-  - awards
 right_column:
   - languages
 no_language_icons: false
