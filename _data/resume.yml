@@ -12,7 +12,6 @@ basics:
   profiles:
     - network: "LinkedIn"
       username: "thanhpdo"
-      url: ""
 
 work:
 - company: "Oklahoma State Department of Health"
