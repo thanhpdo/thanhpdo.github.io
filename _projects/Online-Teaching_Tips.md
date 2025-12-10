@@ -2,7 +2,7 @@
 layout: project
 title: 'Online Teaching Tips - Using the ADDIE model'
 description: >
-   Following the suggestions on teaching remotely during the COVID-19 pandemic by Milman (2020), I planned and developed this project during Fall 2020 to provide instant guidance to all EHS College faculty. In this project, I also applied the ADDIE model to organize and develop the content. With this project, I received the Nova Southeastern Univ. Award for Outstanding Practice by a Graduate Student from the Division of Design and Development, the Association for Educational Communications and Technology (AECT)
+   **Faculty Development, Instructional Design, ADDIE, Competency-based, UDL**
 date: 1 August 2020
 image: 
   path: /assets/img/projects/OTT1.png
@@ -15,7 +15,10 @@ sitemap: false
 
 **Tool Used** Google Drive, Canva, Zoom
 
+**What I Did**
 I followed suggestions on teaching remotely during the COVID-19 pandemic by Milman (2020) to create a project plan. Besides, by personal communication with some online faculty I used to assist, I selected important tips and designed a simple document that contains one set of Tips each week. The weekly tip series addressed a range of tips and strategies in categories, including online presentation tools, assessments, engagement activities, and interactive activities. With the help of my supervisor, we reviewed, edited, and sent out the document weekly to all faculty in the whole semester.
+
+In this project, I also applied the ADDIE model to organize and develop the content. With this project, I received the Nova Southeastern Univ. Award for Outstanding Practice by a Graduate Student from the Division of Design and Development, the Association for Educational Communications and Technology (AECT)
 
 The list of essential topics that relate to online teaching:
 
@@ -36,3 +39,6 @@ This project was highly evaluated by faculty and administrators for some reasons
 References:
 Hodges, C., Moore, S., Lockee, B., Trust, T., & Bond, A. (2020). The difference between emergency remote teaching and online learning. Educause review, 27, 1-12.
 Milman, N. B. (2020). This is emergency remote teaching, not just online teaching. Education Week
+
+**Reflections and Future Improvements**
+Through this project I learned how valuable concise, well-curated guidance can be when faculty are overloaded with information and time-pressed. The ADDIE structure helped me stay organized and intentional, but the most critical insight came from listening carefully to faculty and adjusting topics based on their evolving needs. If I were to extend or redesign this work, I would formalize the evaluation component by building in short feedback surveys with each tip, tracking which topics lead to the most implementation, and using that data to prioritize future content. I would also consider converting selected tips into short video microlearning segments with captions and transcripts to further support Universal Design for Learning and multiple means of representation.
