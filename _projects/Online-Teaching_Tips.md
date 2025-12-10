@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Online Teaching Tips - Using the ADDIE model'
+title: 'Online Teaching Tips with the ADDIE model'
 description: >
    **Faculty Development, Instructional Design, ADDIE, Competency-based, UDL**
 date: 1 August 2020
