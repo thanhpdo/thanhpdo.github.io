@@ -14,7 +14,7 @@ basics:
       username: "thanhpdo"
 
 work:
-- company: "Oklahoma State Department of Health"
+  - company: "Oklahoma State Department of Health"
     position: "Organizational Development & Workforce Team Lead"
     startDate: "2025-07-14"
     endDate: "2021-12-11"
@@ -23,7 +23,7 @@ work:
       - "Supervise, mentor, and onboard team members, providing daily guidance and fostering a supportive, collaborative work environment."
       - "Conduct needs assessments (surveys, interviews, consultations) to determine training and organizational development priorities (Qualtrics, Microsoft Forms, MS Excel, Power BI)."
       - "Evaluate training effectiveness using feedback, data, and assessment tools; update content and delivery methods based on findings (LMS analytics, survey tools)." 
-- company: "Oklahoma State Department of Health"
+  - company: "Oklahoma State Department of Health"
     position: "Instructional Designer III"
     startDate: "2022-08-22"
     endDate: "2025-07-12"
