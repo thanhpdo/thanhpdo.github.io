@@ -10,13 +10,13 @@ basics:
   profiles:
     - network: "LinkedIn"
       username: "thanhpdo"
-      URL: "http://linkedin.com/in/thanhpdo"
+      website: "http://linkedin.com/in/thanhpdo"
 
 work:
   - company: "Oklahoma State Department of Health"
     position: "Organizational Development & Workforce Team Lead"
     startDate: "2025-07-14"
-    endDate: "current"
+    endDate: ""
     highlights:
       - "Lead and coordinate team projects, monitor progress, and ensure deadlines and deliverables are met through balanced workload management."
       - "Supervise, mentor, and onboard team members, providing daily guidance and fostering a supportive, collaborative work environment."
@@ -45,7 +45,7 @@ work:
   - company: "School of Foreign Languages, Thai Nguyen University"
     position: "Lecturer"
     startDate: "2008-08-1"
-    endDate: "current"
+    endDate: ""
     highlights:
       - "Taught online courses (2022–2023): EOA243 - English Oral Advanced, ETG331 - English for Tour Guide, EDM331 - English for Tour Design and Management"
       - "Delivered in-person courses (2008–2015): ECD 341 - English Curriculum Development, ECC231 - Cross-cultural Communication, ETP341 - Teaching English to Primary Students, EOI241 - English Oral Intermediate 1, EOI242 - English Oral Intermediate 2"
@@ -66,13 +66,13 @@ service:
     position: "Editorial Board Member -  Section of Educational Science"
     website:
     startDate: "2023-04-01"
-    endDate: "current"
+    endDate: ""
     summary: "Collaborating biannually with the editorial board to oversee a publication in the field of Science Education, I contribute to the comprehensive peer-review process, which includes identifying and assigning manuscripts to subject matter experts. I actively maintain communication with these reviewers to facilitate a smooth workflow, ensuring that all accepted papers meet rigorous quality standards and adhere to strict publication timelines."
   - organization: "AECT Distance Learning Division Journal Article Award"
     position: "Coordinator"
     website:
     startDate: "2023-02-01"
-    endDate: "current"
+    endDate: ""
     summary: "I oversee the submission evaluation process for the Empirical Journal Article Award in the Qualitative and Conceptual Category, which involves recruiting qualified reviewers and assigning relevant articles for assessment. By rigorously evaluating the quality of these reviews and calculating average scores, I identify the winning submission while also drafting comprehensive memos outlining the rationale for non-selection to ensure transparency and constructive feedback for all entrants."
     
 education:
