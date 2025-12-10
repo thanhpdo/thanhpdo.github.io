@@ -1,7 +1,7 @@
 ---
 layout: resume
 title: Resume
-description: >
+description:
 Experienced instructor, instructional designer, and organizational development leader with extensive experience in higher education and state government. Demonstrated expertise in learner experience design (LXD), developing and facilitating online, hybrid, and in-person courses, and integrating emerging technologies—including immersive environments, generative AI tools, and eLearning software—into meaningful learning experiences. Skilled in instructional design and evaluation (ADDIE), syllabus and curriculum development, learning analytics–informed improvement, and collaborative leadership in program and faculty development.
 hide_description: true
 left_column:
