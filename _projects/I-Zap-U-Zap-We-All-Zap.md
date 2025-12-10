@@ -2,7 +2,7 @@
 layout: project
 title: 'AR Workshop: I-Zap-U-Zap-We-All-Zap'
 description: >
-   **Instructional Design, Project-Based, Emerging Technologies**
+   **Instructional Design, Project-Based, Emerging Technologies, UDL**
 date: 1 August 2019
 image: 
   path: /assets/img/projects/I-Zap1.png
